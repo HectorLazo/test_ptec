@@ -10,6 +10,7 @@ Prueba Técnica desarrollando una API de usuarios en Python.
 - [Instalación](#instalación)
 - [Herramientas utilizadas](#herramientas-utilizadas)
 - [Endpoints](#endpoints)
+- 	[Listar usuarios](#listar-usuarios)
 
 ---
 
